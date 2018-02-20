@@ -1,0 +1,41 @@
+body {
+	margin: 0;
+	background: #d8cecd;
+
+}
+.menu{
+	padding-left: 132px;
+	width:800px;
+	height: 70px;
+	background-color: #008080;
+	position: fixed;
+	bottom: 0;
+	left: 50%;
+	margin-left: -400px;
+
+}
+
+.icone{
+	width: 100px;
+	height: 100px;
+	background-color: #00cccc;
+	float: left;
+	margin-right: 10px;
+	cursor: pointer;
+	margin-left: 5px;
+
+}
+
+.img{
+	width: 100px;
+	height: 100px;
+
+}
+
+.centrar {
+margin: 8px 10px 10px 10px;
+padding-left: 6px;
+   
+   
+    
+}
